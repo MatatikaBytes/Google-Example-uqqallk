@@ -5,6 +5,7 @@
   "variant": "matatika",
   "label": "Google Drive",
   "pip_url": "git+https://github.com/Matatika/utility-gdrive.git@v0.2.0",
+  "logo_url": "/assets/images/utility/gdrive.png",
   "settings": [
     {
       "name": "file_id",
