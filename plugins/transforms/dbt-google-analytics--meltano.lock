@@ -1,0 +1,13 @@
+{
+  "plugin_type": "transforms",
+  "name": "dbt-google-analytics",
+  "namespace": "tap_google_analytics",
+  "variant": "meltano",
+  "label": "dbt-google-analytics",
+  "repo": "https://github.com/Matatika/dbt-tap-google-analytics",
+  "pip_url": "https://github.com/Matatika/dbt-tap-google-analytics@v0.4.0",
+  "id": "e09d3d9e-f98b-45a0-be3d-e8de216bb518",
+  "vars": {
+    "schema": "{{ env_var('DBT_SOURCE_SCHEMA') }}"
+  }
+}

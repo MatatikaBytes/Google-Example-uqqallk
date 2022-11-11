@@ -1,0 +1,13 @@
+{
+  "plugin_type": "files",
+  "name": "analyze-google-analytics",
+  "namespace": "tap_google_analytics",
+  "variant": "matatika",
+  "label": "analyze-google-analytics",
+  "repo": "https://github.com/Matatika/analyze-google-analytics",
+  "pip_url": "git+https://github.com/Matatika/analyze-google-analytics@v0.4.0",
+  "id": "f5c1856f-cb8e-43a4-a297-eed7f9eea09e",
+  "update": {
+    "analyze/datasets": "true"
+  }
+}
