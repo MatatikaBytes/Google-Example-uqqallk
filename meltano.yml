@@ -42,3 +42,7 @@ plugins:
   - name: analyze-google-analytics
     variant: matatika
     pip_url: git+https://github.com/Matatika/analyze-google-analytics@v0.4.0
+  utilities:
+  - name: gdrive
+    variant: matatika
+    pip_url: git+https://github.com/Matatika/utility-gdrive.git@v0.2.0
