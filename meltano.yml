@@ -13,6 +13,9 @@ plugins:
   - name: tap-google-analytics
     variant: meltano
     pip_url: git+https://github.com/Matatika/tap-google-analytics@v0.3.0
+  - name: tap-google-sheets
+    variant: meltano
+    pip_url: git+https://github.com/Matatika/tap-google-sheets@v0.2.0
   loaders:
   - name: target-postgres
     variant: transferwise
